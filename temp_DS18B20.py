@@ -1,3 +1,4 @@
+# Här är programmet till temperaturmätning med Raspberrypi
 import os, glob, time
 
 os.system('modprobe w1-gpio') 
